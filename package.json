@@ -1,0 +1,11 @@
+{
+  "name": "elastic-search-csv-importer",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "csv-parser": "^1.11.0",
+    "elasticsearch": "^12.1.0",
+    "minimist": "^1.2.0"
+  }
+}
